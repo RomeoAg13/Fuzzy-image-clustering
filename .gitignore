@@ -1,5 +1,4 @@
 __pycache__/
-rapport/build/
 *.aux
 *.log
 *.out
@@ -7,3 +6,5 @@ rapport/build/
 *.synctex.gz
 *.fdb_latexmk
 *.fls
+rapport/*
+.vscode
